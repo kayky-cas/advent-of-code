@@ -5,3 +5,5 @@ main
 tmp
 
 *.class
+
+*.txt
