@@ -2,7 +2,7 @@ main
 *.dSYM
 .vscode
 
-tmp
+a
 
 *.class
 
